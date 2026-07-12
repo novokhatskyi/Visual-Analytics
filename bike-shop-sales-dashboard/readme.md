@@ -54,4 +54,10 @@ The report contains 6 pages, each answering a specific business question:
 - Drillable matrix (Category → Sub-Category) and map with country → state drill-down
 - AI visuals: **Decomposition Tree** (flexible root-cause exploration of revenue) and **Key Influencers** (statistical drivers of profitability)
 
-## 📁 Repository Contents
+## 🚀 How to View
+
+1. Download the `.pbix` file
+2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+3. All data is embedded — no external connections required
+
+*Dataset: synthetic training data provided by the GoIT Data Analytics course.*
