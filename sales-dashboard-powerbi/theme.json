@@ -1,0 +1,28 @@
+{
+  "name": "GoIT Sales Dark",
+  "dataColors": ["#4FC3F7", "#FFB74D", "#81C784", "#E57373", "#BA68C8"],
+  "background": "#1E2430",
+  "foreground": "#E8EAED",
+  "tableAccent": "#4FC3F7",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#E8EAED" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#E8EAED" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#9AA0A6" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#4FC3F7" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#262D3B" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#343D4E" } }, "radius": 8 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "selection": [{
+          "selectedItemColor": { "solid": { "color": "#4FC3F7" } }
+        }]
+      }
+    }
+  }
+}
